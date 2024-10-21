@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulesVerstraeten
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
-- 📫 How to reach me linkedin: https://www.linkedin.com/in/jules-verstraeten-9a7582279/
+- 📫 How to reach me linkedin: https://www.linkedin.com/in/jules-verstraeten/
 - ⚡ Fun fact: I do shake cocktails in the weekends
 
 <!---

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jules Verstraeten</h1>
 <h3 align="center">A passionate backend developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET** at school and **Flutter** and **Django** by myself
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/jules-verstraeten/
 - ⚡ Fun fact: I do shake cocktails in the weekends
 
